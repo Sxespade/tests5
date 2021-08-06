@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.geekbrains.tests.presenter.details.DetailsPresenter
 import com.geekbrains.tests.presenter.details.PresenterDetailsContract
 import kotlinx.android.synthetic.main.activity_details.*
-import ru.geekbarins.tests.R
+import com.geekbrains.tests.R
 import java.util.*
 
 class DetailsActivity : AppCompatActivity(), ViewDetailsContract {

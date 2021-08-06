@@ -17,8 +17,8 @@ import com.geekbrains.tests.view.details.DetailsActivity
 import kotlinx.android.synthetic.main.activity_main.*
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
-import ru.geekbarins.tests.BuildConfig
-import ru.geekbarins.tests.R
+import com.geekbrains.tests.BuildConfig
+import com.geekbrains.tests.R
 import java.util.*
 
 class MainActivity : AppCompatActivity(), ViewSearchContract {

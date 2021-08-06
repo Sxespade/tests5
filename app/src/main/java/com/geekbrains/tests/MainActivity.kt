@@ -1,4 +1,4 @@
-package ru.geekbarins.tests
+package com.geekbrains.tests
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

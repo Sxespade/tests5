@@ -7,7 +7,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.geekbrains.tests.model.SearchResult
 import com.geekbrains.tests.view.search.SearchResultAdapter.SearchResultViewHolder
 import kotlinx.android.synthetic.main.list_item.view.*
-import ru.geekbarins.tests.R
+import com.geekbrains.tests.R
 
 internal class SearchResultAdapter : RecyclerView.Adapter<SearchResultViewHolder>() {
 
